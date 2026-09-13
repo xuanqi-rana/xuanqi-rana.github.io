@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#’>Phd.Stu</a>.@SJTU Lemo²n Lab
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email：xq.wang@sjtu.edu.cn</p>
     <p>Shanghai Jiao Tong University</p>
     <p>National Key Laboratory of Science and Technology on Micro/Nano Fabrication</p>
     <p>Shanghai, China</p>
