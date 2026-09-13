@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xuanqi-rana.github.io/al-folio/sitemap.xml
+Sitemap: https://xuanqi-rana.github.io/sitemap.xml
