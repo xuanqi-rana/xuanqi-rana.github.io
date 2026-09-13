@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Phd.Stu</a> @ SJTU [Lemo²n Lab](https://lemon.sjtu.edu.cn)
+subtitle: <a href="#">Phd.Stu</a> @ SJTU Lemo²n Lab
 
 profile:
   align: right
