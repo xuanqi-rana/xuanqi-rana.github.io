@@ -26,7 +26,6 @@ const SHOTS = [
   { name: "light", url: "/", theme: "light", height: 1000 },
   { name: "dark", url: "/", theme: "dark", height: 1000 },
   { name: "cv", url: "/cv/", theme: "light", height: 1100 },
-  { name: "people", url: "/people/", theme: "light", height: 950 },
   { name: "publications", url: "/publications/", theme: "light", height: 1100 },
   { name: "projects", url: "/projects/", theme: "light", height: 1000 },
   { name: "blog", url: "/blog/", theme: "light", height: 1100 },
